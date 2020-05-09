@@ -24,5 +24,5 @@ $ cat file.txt | reverser.py
 
 Note: Use --help or -h option to view the help menu applicable for both windows and linux versions
 
-# Wget it
+# Wget reverser
 wget https://raw.githubusercontent.com/shafdo/reverser/master/reverser.py
